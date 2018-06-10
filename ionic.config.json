@@ -1,0 +1,8 @@
+{
+  "name": "bala",
+  "app_id": "c341b108",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
